@@ -28,27 +28,6 @@
 -   **`flutter_local_notifications`**：用于显示本地通知。
 -   **`permission_handler`**：用于处理各种平台权限。
 
-## 🚀 安装与运行
-
-请确保您已安装 Flutter SDK。如果您尚未安装，请访问 [Flutter 官方网站](https://flutter.dev/docs/get-started/install) 获取安装指南。
-
-1.  **克隆仓库**：
-    ```bash
-    git clone https://github.com/your-username/counter_app.git
-    cd counter_app
-    ```
-    (请将 `https://github.com/your-username/counter_app.git` 替换为您的实际仓库地址)
-
-2.  **安装依赖**：
-    ```bash
-    flutter pub get
-    ```
-
-3.  **运行应用程序**：
-    ```bash
-    flutter run
-    ```
-
 ## 📖 使用说明
 
 -   **计数操作**：在主页上点击 `+` 按钮增加计数，点击 `-` 按钮减少计数，点击 `刷新` 按钮重置计数。
